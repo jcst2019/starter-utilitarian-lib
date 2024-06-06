@@ -4,7 +4,7 @@
 
   <groupId>com.org.reto.indra</groupId>
   <artifactId>starter-utilitarian-lib</artifactId>
-  <version>1.0</version>
+  <version>1.0.2</version>
   <packaging>jar</packaging>
 
   <name>starter-utilitarian-lib</name>
